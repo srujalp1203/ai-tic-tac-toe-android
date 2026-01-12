@@ -15,4 +15,3 @@ The application uses a local SQLite database to persist game results.
 - Persist data across sessions
 
 The database is accessed via a dedicated helper class to ensure separation of concerns.
-
