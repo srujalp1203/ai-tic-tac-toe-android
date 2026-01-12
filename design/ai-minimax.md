@@ -16,4 +16,3 @@ Difficulty levels are implemented by limiting search depth:
 - Hard: Deeper recursive evaluation
 
 This ensures both optimal play and adjustable challenge.
-
