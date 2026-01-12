@@ -10,4 +10,3 @@ The following scenarios were tested:
 - Statistics reset behavior
 
 All scenarios were validated using Android emulators.
-
