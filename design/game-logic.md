@@ -17,4 +17,3 @@ A centralized turn controller alternates turns between players or invokes the AI
 
 The board is evaluated after each move using predefined winning patterns.  
 Draws are detected when all cells are filled without a winning configuration.
-
