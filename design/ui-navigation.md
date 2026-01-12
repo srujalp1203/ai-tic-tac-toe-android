@@ -17,4 +17,3 @@ The application follows a multi-activity architecture.
 - StatsActivity: Game history and statistics
 
 Navigation flows are illustrated in `architecture/activity-flow.png`.
-
