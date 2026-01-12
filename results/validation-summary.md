@@ -11,4 +11,3 @@ The application was validated through systematic testing across all gameplay mod
 - SQLite persistence verified across sessions
 
 No critical defects were observed during testing.
-
